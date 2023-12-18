@@ -19,4 +19,4 @@
 
 ## Наблюдатель
 
-- ### Task7 "Наблюдатель" https://github.com/DaddyCalcifer/observer_lab
+- ### Task7 "Наблюдатель" https://github.com/DaddyCalcifer/ObserverLab
