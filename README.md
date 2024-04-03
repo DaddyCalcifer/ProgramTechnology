@@ -20,3 +20,10 @@
 ## Наблюдатель
 
 - ### Task7 "Наблюдатель" https://github.com/DaddyCalcifer/ObserverLab
+
+## Второй семестр
+
+- ### Task8 "Декоратор" https://github.com/DaddyCalcifer/lab_8_decorator
+- ### Task8 "Цепочка обязанностей" https://github.com/DaddyCalcifer/ResponsibillityChain
+- ### Task8 "DAO" 
+- ### Task8 "Поставщик-потребитель" https://github.com/DaddyCalcifer/ProducerConsumer
