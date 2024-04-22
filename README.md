@@ -13,7 +13,7 @@
 ## Работа со слайдами
 
 - ### Task4 "Итератор" https://github.com/DaddyCalcifer/iterator_lab
-- ### Task5 "Строитель" https://github.com/DaddyCalcifer/builder_lab
+- ### Task5 "Строитель" https://github.com/DaddyCalcifer/task_builder
 
 ---
 
