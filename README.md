@@ -27,3 +27,5 @@
 - ### Task8 "Цепочка обязанностей" https://github.com/DaddyCalcifer/ResponsibillityChain
 - ### Task8 "DAO" 
 - ### Task8 "Поставщик-потребитель" https://github.com/DaddyCalcifer/ProducerConsumer
+- ### Plugin https://github.com/DaddyCalcifer/translatePlugin
+- ### UnitTest https://github.com/DaddyCalcifer/JavaUnitTest
