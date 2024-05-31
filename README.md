@@ -29,3 +29,4 @@
 - ### Plugin https://github.com/DaddyCalcifer/translatePlugin
 - ### UnitTest https://github.com/DaddyCalcifer/JavaUnitTest
 - ### MeteoServer/FORK https://github.com/DaddyCalcifer/MeteoServer
+- ### Доп.задача TaskManagerApp https://github.com/DaddyCalcifer/TaskManagerFXApp
